@@ -262,7 +262,7 @@ All generated code was reviewed, tested, and modified before inclusion in the fi
 
 Video Link:
 
-**(Add your YouTube link here after uploading the video.)**
+to be added...
 
 ---
 
