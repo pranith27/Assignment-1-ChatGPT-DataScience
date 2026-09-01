@@ -251,6 +251,7 @@ Video Link:
 
 
 🤖 ChatGPT Assisted Data Science Conversation
+
 👨‍💻 Me
 
 I don't just want to train a model. I want this project to resemble a real-world data science workflow. How should we structure the project from the beginning?
